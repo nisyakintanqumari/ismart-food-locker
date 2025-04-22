@@ -19,3 +19,17 @@ An embedded system project that develops a smart food locker system using ESP32,
 - Firebase / MQTT (optional)
 
 ## 📁 Folder Structure
+
+## 🚀 Getting Started
+1. Upload `locker_controller.ino` to your ESP32.
+2. Connect the system as per the circuit diagram.
+3. Set a PIN for each user locker.
+4. Input the correct PIN to open the locker.
+
+## 📸 Demo
+![Locker Demo](images/locker_demo.jpg)
+
+## ✍️ Author
+Nisya Kintan Qumari  
+Email: nisyakintanqumari@gmail.com  
+GitHub: [@nisyakintanqumari](https://github.com/nisyakintanqumari)

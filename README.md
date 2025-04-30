@@ -2,7 +2,7 @@
 I-Locker : Transforming Food Delivery with Intelligent Lockers 
 ## Introduction
 - System flow:
-![image]
+![image] (https://github.com/nisyakintanqumari/ismart-food-locker/blob/main/AIoT2.drawio%20(1).png)
   
 - For more detail, please check on our [website](https://ilockerteam2.wixsite.com/team-2-iiot-pbl-proj)
 ## System Components
